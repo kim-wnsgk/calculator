@@ -1,8 +1,13 @@
 .container {
+    width: 95%;
     background-color: #999999;
     margin: 8px;
     border-radius: 10px;
     text-align: center;
     font-size: 100px;
     color: white;
+}
+
+.container:hover {
+    background-color: #555555;
 }

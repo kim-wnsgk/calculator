@@ -15,7 +15,7 @@ body {
 .title {
     color: aliceblue;
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
     font-family: 'silkscreen';
     text-shadow: -5px 0 #000, 0 8px #000, 5px 0 #000, 0 -5px #000;
 }
@@ -50,6 +50,8 @@ body {
 .numPad {
     flex: 1;
 }
+
+
 
 .numRows {
     display: flex;
